@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30837006672",
+    "project_id": "webshop-b2482",
+    "storage_bucket": "webshop-b2482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30837006672:android:d10d87f5fc3b3077a5cc55",
+        "android_client_info": {
+          "package_name": "com.example.webshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6be3ULzAeYRL1OsT-5BYFMNhY4EHhuTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
